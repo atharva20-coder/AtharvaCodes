@@ -158,4 +158,4 @@ _Last but not least, place a call-to-action at the bottom of your blog post. Thi
 
 ## Dowload the full guide for version control system with pictorial explaination
 
-[**Download Link :**](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
+[**Click 👉 to 👉Download the 📙 :**](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
