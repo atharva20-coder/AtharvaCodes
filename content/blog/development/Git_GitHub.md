@@ -7,8 +7,6 @@ draft: false
 
 # Getting started with 🧠 Git and GitHub 💬.
 
-**Title:** Getting started with 🧠 Git and GitHub 💬.
-
 ## What is GIT?
 
 So, what is Git in a nutshell? This is an important section to absorb, because if you understand what Git is and the fundamentals of how it works, then using Git effectively will probably be much easier for you.
@@ -28,9 +26,6 @@ if we need to.
 
 ## Terms used in this article.
 
-_Answer the question posed by the title of this post directly below this header. This will increase your chances of ranking for the featured snippet on Google for this phrase and provide readers with an immediate answer. Keep the length of this definition – at least in this very basic introduction – between 50 and 60 words._
-
-_After the brief definition, dive further into the concept and add more context and explanation if needed._
 
 - Directory → Folder.
 - Terminal or command line → Interface for Text Commands.
@@ -41,10 +36,6 @@ _After the brief definition, dive further into the concept and add more context 
 - GitHub → A website to host your repositories online.
 
 ## Git 🆚 GitHub
-
-_Provide your readers with a few reasons why they should care about the term or the concept you’re writing about. If this is a consumer-level concept, talk about the implications this could have on their businesses, finances, personal happiness, etc. If you’re writing for an audience of professionals, mention the impact this term or concept has on profit, efficiency, and/or customer satisfaction. To make the most of this section, make sure it includes at least one statistic, quote, or outside reference._
-
-**_Include at Least One of These Next Three Sections_**
 
 <strong>GIT</strong> is the tool that tracks the changes in your code over time whereas **GITHUB** is a website to host
 your repositories online. Being online it makes easy to work in groups with other people and organize
@@ -136,8 +127,6 @@ $ git push -u origin master
 
 ## Closing and a final conclusion
 
-_Wrap up your amazing new blog post with a great closing. Remind your readers of the key takeaway you want them to walk away with and consider pointing them to other resources you have on your website._
-
 In this post you discovered Git And GitHub for beginners. You learned that:
 
 - What is Git.
@@ -150,12 +139,14 @@ Do you have any questions about GIT and GitHub or this post? Leave a comment and
 
 ## Sources for the above article / Call-to-Action
 
-_Last but not least, place a call-to-action at the bottom of your blog post. This should be to a lead-generating piece of content or to a sales-focused landing page for a demo or consultation._
-
 [Image Source](https://medium.com/react-native-institute/how-to-use-git-with-react-native-687c12431e36)
 
 [Content Source](https://github.com/atharva20-coder/intro-to-git-github/blob/main/intro%20to%20git%20and%20github.pdf)
 
 ## Dowload the full guide for version control system with pictorial explaination
 
+
+[**Download Link :**](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
+
 [**Click 👉 to 👉Download the 📙 :**](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
+
