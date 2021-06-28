@@ -26,6 +26,7 @@ if we need to.
 
 ## Terms used in this article.
 
+
 - Directory → Folder.
 - Terminal or command line → Interface for Text Commands.
 - CLI → Command Line Interface.
@@ -144,4 +145,8 @@ Do you have any questions about GIT and GitHub or this post? Leave a comment and
 
 ## Dowload the full guide for version control system with pictorial explaination
 
+
 [**Download Link :**](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
+
+[**Click 👉 to 👉Download the 📙 :**](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
+
