@@ -24,7 +24,7 @@ blockquote {
 
 code[class*='language-'],
 pre[class*='language-'] {
-  color: #e0e0e0;
+  color: #36454f;
   background: none;
   font-family: 'Fira Code', 'Consolas', 'Monaco', 'Andale Mono', 'Ubuntu Mono',
     monospace;
@@ -63,7 +63,7 @@ pre[class*='language-'] {
 
 :not(pre) > code[class*='language-'],
 pre[class*='language-'] {
-  background: #212121;
+  background: #ecebea;
 }
 
 /* Inline code */
