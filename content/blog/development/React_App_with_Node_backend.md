@@ -134,7 +134,8 @@ And to test this, we can simply visit http://localhost:3001/api in our browser a
 
 <br><br>
 
-Step 3: Create your React frontend
+# Step 3: Create your React frontend
+
 <br>
 After creating our backend, let’s move to the frontend.
 <br>
