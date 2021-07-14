@@ -7,6 +7,7 @@ draft: false
 
 # <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" style="vertical-align:middle" alt="react-badge"> - Let's Learn The Basic Tenets
 
+
 <img src="./images/devops.jpg" alt="Kubernetes - Lets learn the basic tenets">
 
 # Introduction
