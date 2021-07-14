@@ -73,28 +73,28 @@ type in Terminal (MAC) or command line (WINDOWS) in your computer. They are:
 
 1. Go into the folder directory which you want to push.
 
-```
+```bash
 $ cd folder-path
 
 ```
 
 2. Initialize your project for git.
 
-```
+```bash
 $ git init
 
 ```
 
 3. Add all your project files.
 
-```
+```bash
 $ git add .
 
 ```
 
 4. Commit the files and the message.
 
-```
+```bash
 $ git commit -m “initial commit”
 
 ```
@@ -113,14 +113,14 @@ $ git commit -m “initial commit”
 
 8. Go back to your terminal and set the origin by pasting the url from the clipboard.
 
-```
+```bash
 $ git remote add origin {paste the copied URL from clipboard}
 
 ```
 
 9. Push the files from local machine to your github repository
 
-```
+```bash
 $ git push -u origin master
 
 ```
