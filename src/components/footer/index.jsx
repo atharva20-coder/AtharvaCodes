@@ -5,8 +5,8 @@ import './index.scss'
 export const Footer = () => (
   <footer className="footer">
     ©<a href="https://github.com/atharva20-coder">Atharva</a>, Built with{' '}
-    <a href="https://github.com/JaeYeopHan/gatsby-starter-bee">
-      Gatsby-starter-bee
+    <a href="https://www.devatharva.com/">
+      devatharva.com
     </a>
   </footer>
 )
