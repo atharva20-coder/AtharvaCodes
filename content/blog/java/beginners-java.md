@@ -1,11 +1,11 @@
 ---
-title: 'Beginner’s Guide to Java ☕'
+title: 'Beginner’s Guide to Java ☕ 1/4'
 date: 2021-05-27 22:23:19
 category: 'JAVA'
 draft: false
 ---
 
-# A Beginner’s Guide to <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:middle" alt="react-badge">: Part 1 of 4
+# A Beginner’s Guide to <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:middle" alt="react-badge"> : Part 1 of 4
 
 <img src="https://images.unsplash.com/photo-1519163219899-21d2bb723b3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Beginner’s Guide to Java">
 
@@ -394,5 +394,9 @@ A Wrapper class is a class whose object wraps or contains a primitive data types
 > int i = (int) j;
 
 - int to String casting is not possible.
+
+## You just completed part 1 👏👏
+
+## Thank you for reading!😀 I hope you enjoyed it and please share if you enjoyed it.
 
 <br><br><br>

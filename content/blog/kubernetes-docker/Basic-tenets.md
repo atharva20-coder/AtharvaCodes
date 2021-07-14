@@ -1,7 +1,7 @@
 ---
 title: 'Kubernetes - Lets learn the basic tenets '
 date: 2021-05-18 13:00:00
-category: 'Kubernetes / Docker'
+category: 'DevOps'
 draft: false
 ---
 
