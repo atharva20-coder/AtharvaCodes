@@ -1,7 +1,7 @@
 ---
 title: 'Git and GitHub for biginners'
 date: 2021-04-18 16:21:13
-category: 'development'
+category: 'Development'
 draft: false
 ---
 
