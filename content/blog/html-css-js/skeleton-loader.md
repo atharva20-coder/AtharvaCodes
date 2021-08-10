@@ -11,6 +11,8 @@ draft: false
   <source src="./images/skeleton.mp4" type="video/mp4"/>
 </video>
 
+<br><br>
+
 Hello geeks👋 In this tutorial, let's build a simple skeleton loader component using HTML and CSS. You can then use this component in your websites/apps as a fallback option before your main content loads.
 
 ### We will create a card and its skeleton loader, so let's start with adding the HTML for both the card and the skeleton.
