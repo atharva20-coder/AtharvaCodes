@@ -7,11 +7,10 @@ draft: false
 
 # Build a simple Skeleton Card loader component using <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:middle" alt="react-background"> and <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:middle" alt="react-background">.
 
-<br><br>
+<br>
 <video width="100%" height="100%" autoplay loop alt="skeleton loader card">
   <source src="./images/skeleton.mp4" type="video/mp4"/>
 </video>
-<br><br>
 
 **Hello geeks👋** In this tutorial, let's build a simple skeleton loader component using HTML and CSS. You can then use this component in your websites/apps as a fallback option before your main content loads.
 
