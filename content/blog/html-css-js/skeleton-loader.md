@@ -10,7 +10,6 @@ draft: false
 <video width="585" height="400" autoplay loop alt="skeleton loader card">
   <source src="./images/skeleton.mp4" type="video/mp4"/>
 </video>
-<br>
 
 Hello geeks👋 In this tutorial, let's build a simple skeleton loader component using HTML and CSS. You can then use this component in your websites/apps as a fallback option before your main content loads.
 
