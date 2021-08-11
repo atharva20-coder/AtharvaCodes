@@ -1,7 +1,7 @@
 ---
-title: 'How to make a React App with Node Backend'
+title: 'How to make a React⚛️ App with Node Backend🍃'
 date: 2021-04-30 05:21:13
-category: 'Node'
+category: 'Node🍃'
 draft: false
 ---
 
@@ -24,7 +24,7 @@ Let’s see how to set up an entire project using React and Node from scratch an
 4.  An account at heroku.com. We will use Heroku to publish our app to the web entirely free.
     <br><br>
 
-# Step 1: Create your Node (Express) backend
+# Step 1: Create your Node (Express) backend🍃
 
 First create a folder for your project, called react-node-app (for example).
 
@@ -134,7 +134,7 @@ And to test this, we can simply visit http://localhost:3001/api in our browser a
 
 <br><br>
 
-# Step 3: Create your React frontend
+# Step 3: Create your React ⚛️ frontend
 
 <br>
 After creating our backend, let’s move to the frontend.

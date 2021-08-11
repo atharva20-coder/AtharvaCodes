@@ -1,7 +1,7 @@
 ---
-title: 'How to learn React'
+title: 'How to learn React ⚛️'
 date: 2021-04-25 20:02:13
-category: 'React'
+category: 'React⚛️'
 draft: false
 ---
 
@@ -18,7 +18,7 @@ As you're piecing together your React learning path, it's easy to feel overwhelm
 Let's break down the seven key skills that you need to focus on to build impressive applications and become an in-demand React developer:
 <br><br>
 
-# Step 1: Become confident with the core fundamentals of HTML, CSS and JavaScript
+# Step 1: Become confident with the core fundamentals of <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:middle" alt="react-background">, <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:middle" alt="react-background"> and <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="vertical-align:middle" alt="react-background">.
 
 The first step in learning React is actually somewhat of a step a backwards.
 

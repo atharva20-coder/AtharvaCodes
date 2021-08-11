@@ -1,7 +1,7 @@
 ---
-title: 'The React Roadmap'
+title: 'The React Roadmap ⚛️'
 date: 2021-05-10 15:00:13
-category: 'React'
+category: 'React⚛️'
 draft: false
 ---
 
@@ -19,7 +19,7 @@ Let’s break down the 10 steps that will make your time and effort becoming a R
 **Let’s get started!**
 <br><br>
 
-# Step 1. Commit to 4-5 hours of coding per weekday
+# Step 1. Commit to 4-5 hours of coding per weekday 📆
 
 <br><br>
 The most important factor in deciding how soon you will be able to learn React is time and how you use it.
@@ -31,7 +31,7 @@ If you plan on coding every day from nine to five once you’re on the job you n
 Why exactly four to five hours? I’ll cover that in step 3.
 <br><br>
 
-# Step 2. Spend your time doing focused coding
+# Step 2. Spend your time doing focused coding ⌛
 
 <br><br>
 What do I mean by focused coding? Focused coding is coding without distraction. In a separate quiet space, where you can sit upright at your computer, and focus entirely on the process of coding.

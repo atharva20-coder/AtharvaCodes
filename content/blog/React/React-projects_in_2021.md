@@ -1,7 +1,7 @@
 ---
-title: '7 React projects in 2021'
+title: '7 React projects in 2021 ⚛️🍃'
 date: 2021-05-05 13:21:13
-category: 'Node'
+category: 'Node🍃'
 draft: false
 ---
 
